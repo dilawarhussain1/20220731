@@ -1,0 +1,52 @@
+.body1{
+text-align: center;
+background-image: url(cash.jpg);
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+min-height: 400px;
+min-width: 400px;
+font-size: 20px;}
+.body2{
+    text-align: center;
+    background-image: url(silver.jpg);
+    background-position: center;
+    background-size: cover;
+    min-height: 400px;
+    min-width: 400px;
+    background-repeat: no-repeat;
+    font-size: 20px;}
+    .body3{
+        text-align: center;
+        background-image: url(gold.jpg);
+        font-size: 20px;}
+
+button{margin-top: 10px;
+color: rgb(170, 101, 15);
+border-width: 6px;
+background-color: rgb(97, 171, 236);
+font-size: 20px;
+outline-style: dashed;
+outline-width: 5px;
+margin-top: 20px;}
+
+.ry{border-color: black;
+background-color: rgb(125, 74, 172);
+border-width: 5px;
+padding: 5px;
+font-size: 23px;
+outline-style: double;
+outline-width: 10px;}
+
+.ss{border-color: black;
+    background-color: rgb(73, 73, 172);
+    border-width: 5px;
+    padding: 5px;
+font-size: 23px;
+outline-style: double;
+outline-width: 10px;}
+
+    a{text-decoration: none;
+        color: rgb(95, 56, 56);
+        font-size: 28px;
+    }
